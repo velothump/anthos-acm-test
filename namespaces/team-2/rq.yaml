@@ -5,4 +5,4 @@ metadata:
   namespace: team-2
 spec:
   hard:
-    persistentvolumeclaims: "3"
+    persistentvolumeclaims: "10"
